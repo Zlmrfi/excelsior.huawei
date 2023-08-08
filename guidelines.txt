@@ -1,0 +1,14 @@
+Solution guidelines
+
+Keep in mind that we do not want to test your skills in a particular programming language or experience with a particular programming system. Do not use hacks and tricks, class libraries, and GUI. Make your solution as readable as possible by carefully formatting it and including a reasonable amount of comments.
+Do not spend time on file handling; standard input and output are sufficient.
+
+A solution must include:
+• Your name(s) and e-mail(s)
+• Source code.
+• A representative set of tests (pay close attention to it!)
+
+The quality of the used algorithms, source code, comments and test suite are most important. And quality is more important than time. For example, the applicants who submit the solutions in a week from the start date will not have any advantage over those who submit in three weeks. Also it's better to prepare, say, three high quality solutions than to submit low quality solutions for all five problems.
+Preferred languages are C, C++, and Java. Scala, Python, Ruby, etc., are okay too.
+Objective-C, PHP, and Visual Basic, albeit popular, are not good choices.
+Do not include binaries. We can compile your sources with Oracle JDK, GNU C, or MSVC, so please run your solution through one of those compilers before submitting it.
